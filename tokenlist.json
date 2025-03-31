@@ -1,0 +1,19 @@
+{
+  "name": "MMC Token List",
+  "timestamp": "2025-03-31T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xc2430267f35d215ef6ed427e463d0e6b58737ecb",  // Replace with MMC's contract address
+      "symbol": "MMC",
+      "name": "MoMoCoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/kentlau111/momocoins/refs/heads/main/MomoCoin.svg" // Replace with MMC's logo URL
+    }
+  ]
+}
